@@ -8,6 +8,7 @@ import javax.swing.JTextField;
 
 import controlador.Controller;
 
+//ventana para editar los contactos
 public class EditContactWindow extends JDialog{
 	
 	private JButton okButton, cancelButton;

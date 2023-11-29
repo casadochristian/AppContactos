@@ -8,6 +8,7 @@ import javax.swing.JTextField;
 
 import controlador.Controller;
 
+//ventana para añadir nuevos contactos
 public class NewContactWindow extends JDialog {
 	
 	private JButton okButton, cancelButton;

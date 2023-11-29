@@ -18,6 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 import controlador.Controller;
 
+//ventana principal del programa
 public class MainWindow extends JFrame {
 	
 	private JLabel title;
